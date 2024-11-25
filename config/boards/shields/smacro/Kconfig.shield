@@ -1,0 +1,2 @@
+config SHIELD_SMACRO
+    def_bool $(shields_list_contains,smacro)
